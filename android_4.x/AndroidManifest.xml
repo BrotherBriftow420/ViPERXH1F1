@@ -3,7 +3,7 @@
 	package="com.vipercn.viper4android.xhifi" android:versionCode="2102"
 	android:versionName="2.1.0.2" android:installLocation="auto">
 
-    <uses-sdk android:minSdkVersion="14"/>
+    <uses-sdk android:minSdkVersion="14" android:targetsdkVersion="23"/>
 
 	<uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"></uses-permission>
 	<uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"></uses-permission>
